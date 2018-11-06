@@ -1,3 +1,3 @@
 # simple-html-boilerplate
 
-```npm i && npn start```
+```npm i && npm start```
